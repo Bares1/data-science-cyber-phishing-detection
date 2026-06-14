@@ -217,3 +217,11 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 external/original-source/
+
+# Data files
+data/raw/*
+data/processed/*
+
+# Keep empty data folders
+!data/raw/.gitkeep
+!data/processed/.gitkeep
