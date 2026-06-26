@@ -1,5 +1,13 @@
 # Phishing Website Detection: Reproduction and Critical Evaluation
 
+## Main Notebook
+
+The main work for this project is contained in:
+
+```text
+notebooks/phishing_detection_reproduction.ipynb
+```
+
 ## Project Description
 
 This project is a reproduction and critical evaluation of the source **“Phishing Website Detection by Machine Learning Techniques.”**
